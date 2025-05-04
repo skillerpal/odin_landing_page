@@ -1,1 +1,1 @@
-# odin_landing_page
+This Readme file is related to the project 'Landing Page' of 'TOP. It is expected that the HTML & CSS skills I have learnt so far will be put to use in this project.
